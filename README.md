@@ -1,7 +1,7 @@
 <h3 align="left">ML/Data Engineer located in the DC area</h3>
 <h4 align="left">I'm interested in all things ML, MLOps, Cloud (GCP, AWS), TensorFlow, etc.</h4>
 
-<p align="left"> <a href="https://twitter.com/tebugging" target="blank"><img src="https://img.shields.io/twitter/follow/tebugging?logo=twitter&style=for-the-badge" alt="tebugging" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/tebugging" target="blank"><img src="https://img.shields.io/twitter/follow/tebugging?logo=twitter&style=for-the-badge" alt="tebugging" /></a> </p> -->
 
 <p align="left">
 <a href="https://twitter.com/tebugging" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tebugging" height="30" width="40" /></a>
