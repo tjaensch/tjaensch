@@ -1,4 +1,4 @@
-<h3 align="left">ML/Data Engineer located in the DC area</h3>
+<h3 align="left">AI/ML Engineer located in the DC area</h3>
 <h4 align="left">I'm interested in all things ML, LLMs, MLOps, LLMOps :stuck_out_tongue:, Cloud (Databricks, GCP, AWS), TensorFlow, etc.</h4>
 
 <!-- <p align="left"> <a href="https://twitter.com/tebugging" target="blank"><img src="https://img.shields.io/twitter/follow/tebugging?logo=twitter&style=for-the-badge" alt="tebugging" /></a> </p> -->
